@@ -44,7 +44,20 @@ This project develops a machine learning model to predict monthly dengue cases i
 ![Predictions](images/xgboost_predictions.png)
 
 ---
+## 💻 Application Demo
 
+### Overview Dashboard
+![Overview](images/app_overview.png)
+*Interactive dashboard showing dengue trends and seasonal patterns*
+
+### Prediction Interface
+![Prediction](images/app_prediction.png)
+*Real-time prediction interface with risk level alerts*
+
+### Historical Data Explorer
+![Data Explorer](images/app_data.png)
+*Browse and download historical dengue and weather data*
+---
 ## 🔧 Features Engineered
 
 **Lag Features (Historical):**
