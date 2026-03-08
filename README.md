@@ -57,7 +57,9 @@ This project develops a machine learning model to predict monthly dengue cases i
 ### Historical Data Explorer
 ![Data Explorer](images/app_data.png)
 *Browse and download historical dengue and weather data*
+
 ---
+
 ## 🔧 Features Engineered
 
 **Lag Features (Historical):**
